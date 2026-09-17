@@ -163,11 +163,15 @@ TalkFa/
 ├── results/
 └── assets/
 
-## Reference
+## Citation
+
+If you use **TalkFa** in your research, please cite:
+
+```bibtex
 @article{jamshidi2026talkfa,
   title   = {TalkFa: A Unified Benchmark for Farsi Dialogue Generation and Understanding},
-  author  = {Jamshidi, Neda and Zeinalipour, Kamyar and Akbari, Fahimeh
-             and Bianchini, Monica and Maggini, Marco and Gori, Marco},
-  year    = {2026},
-  journal = {arXiv preprint arXiv:2609.01810}
+  author  = {Jamshidi, Neda and Zeinalipour, Kamyar and Akbari, Fahimeh and Bianchini, Monica and Maggini, Marco and Gori, Marco},
+  journal = {arXiv preprint arXiv:2609.01810},
+  year    = {2026}
 }
+```
