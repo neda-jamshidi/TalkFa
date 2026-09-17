@@ -146,7 +146,7 @@ TalkFa supports four primary research tasks:
 The benchmark can also be used to study parameter-efficient adaptation,
 low-resource learning, multilingual transfer, and dialogue evaluation.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 TalkFa/
@@ -162,6 +162,7 @@ TalkFa/
 ├── scripts/
 ├── results/
 └── assets/
+```
 
 ## Citation
 
