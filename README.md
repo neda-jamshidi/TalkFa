@@ -162,3 +162,11 @@ TalkFa/
 ├── scripts/
 ├── results/
 └── assets/
+
+@article{jamshidi2026talkfa,
+  title   = {TalkFa: A Unified Benchmark for Farsi Dialogue Generation and Understanding},
+  author  = {Jamshidi, Neda and Zeinalipour, Kamyar and Akbari, Fahimeh
+             and Bianchini, Monica and Maggini, Marco and Gori, Marco},
+  year    = {2026},
+  journal = {arXiv preprint arXiv:2609.01810}
+}
